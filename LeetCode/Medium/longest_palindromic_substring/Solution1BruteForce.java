@@ -14,7 +14,7 @@ Note: "aba" is also a valid answer.
  * Check longest to shortest then break
  */
 
-public class Solution {
+public class Solution1BruteForce {
 	
 	public static String longestPalindrome(String s) {
 		
